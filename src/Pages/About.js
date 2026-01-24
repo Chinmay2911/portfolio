@@ -18,46 +18,35 @@ function About() {
           Work Experience
         </h1><br />
         <Timeline>
-          <Event interval={"October 2023 – Present"} title={"Front Desk Associate"} subtitle={"Hampton Inn by Hilton, ON, CA"}>
-            🔹Generated meticulous nightly reports summarizing financial activities and notable events, maintaining accurate records to uphold compliance with company policies and regulations.<br />
-            🔹Diligently reconciled nightly financial transactions, ensuring precision in accounting records and minimizing discrepancies.
+          <Event interval={"October 2022 – Present"} title={"Front Desk Associate"} subtitle={"Hampton Inn by Hilton, ON, CA"}>
+            🔹Welcomed guests with a warm and professional demeanor, creating a positive first impression.<br />
+            🔹Managed check-in and check-out processes efficiently, ensuring a seamless experience for guests.<br />
+            🔹Handled guest inquiries and concerns promptly and effectively, enhancing overall guest satisfaction.<br />
+            🔹Assisted in maintaining cleanliness and organization of the front desk area, contributing to a pleasant atmosphere.<br />
+            🔹Collaborated with other hotel departments to coordinate guest services and resolve issues efficiently.<br />
+            🔹Demonstrated excellent communication and interpersonal skills, building rapport with guests and colleagues.<br />
+            🔹Exceed customer service expectations, achieving a 20% increase in efficiency.
           </Event>
-          <Event interval={"June 2022 – July 2023"} title={"Metaverse Executive"} subtitle={"The Small Big Idea, Mumbai"}>
-            🔹Job profile revolves around proving effective visualizations and reports to enhance business in the Web3 space.<br />
-            🔹Developed and managed Web3 based websites for clients which includes framework like Reactjs.<br />
-            🔹Managed and handled API and Databases (SQL and MongoDB)
+          <Event interval={"September 2023 – April 2024"} title={"Teaching Assistant, Student Marker, and Student Lab Demonstrator"} subtitle={"Trent University, Peterborough, ON, CA"}>
+            🔹Provide hands-on instructional support in Software Design and Modelling, and emphasizing problem-solving.<br />
+            🔹Collaborate closely with a supervisor to align activities with the overall course objectives.<br />
+            🔹Facilitate practical application, leading to a 25% improvement in problem-solving.
           </Event>
-          <Event interval={"June 2021 – January 2022"} title={"Associate Developer"} subtitle={"Tekno Point Multimedia Pvt. Ltd., Mumbai"}>
-            🔹Handled analytics, visualizations, and thirdparty API(s) using Adobe Analytics.<br />
+          <Event interval={"Sep 2021 – Apr 2022, Sep 2022 – Oct 2022"} title={"Cashier"} subtitle={"Petro Canada, Peterborough, ON, CA"}>
+            🔹Processed customer transactions accurately and efficiently, handling cash, debit, and credit card payments.<br />
+            🔹Maintained a clean and organized work environment, including the cashier area and merchandise displays.<br />
             🔹Analyzed and managed the journeys of entire user-flow for multiple clients.<br />
-            🔹Technology used at workplace is Adobe Experience Manager (AEM) for development and Adobe Analytics for reports and visualization of data.
+            🔹Monitored fuel pumps and assisted customers with refueling when necessary, adhering to safety protocols.<br />
+            🔹Adhered to company policies and procedures, including safety and security protocols, to maintain a safe and secure work environment.
           </Event>
         </Timeline><br />
-
-        <h1 className="text-2xl text-gradient text-dark-heading  md:text-4xl xl:text-5xl xl:leading-tight font-bold">
-          Internships
-        </h1><br />
-        <Timeline>
-          <Event interval={"June 2020 – December 2020"} title={"Data Science Intern"} subtitle={"Iha Consulting Services Pvt. Ltd., Hyderabad"}>
-            🔹Analyzed and processed complex data sets using advanced querying, visualization and analytics tools and python libraries.<br />
-            🔹Performed tasks such as prediction of the given dataset, with algorithms viz, Linear Regression, Logistic Regression and Support Vector Machine<br />
-            🔹Delivered insightful dashboards and reports which was used by stakeholder to take decisions. For visualization of data, library named Plotly, software - Tableau was used and for data management and storing Excel.<br />
-          </Event>
-          <Event interval={"August 2020 – September 2020"} title={"Data Analyst Intern"} subtitle={"KPMG, Mumbai"}>
-            🔹Assigned tasks like Data Cleaning, Plotting of Data, Data Quality Assessment, Insights of Data and Presentation of data.<br />
-            🔹Analyze and provided the outcomes of dataset given technology used for the same was Python and Microsoft Excel.
-            🔹Algorithms used in internship were- Linear Regression, Clustering, Decision Tree and Exploratory Data Analysis (EDA)
-          </Event>
-        </Timeline>
 
 
         <h1 className="text-2xl text-gradient pt-10 text-dark-heading  md:text-4xl xl:text-5xl xl:leading-tight font-bold">
           Education
         </h1><br />
         <Timeline>
-          <Event interval={"2023 – 2024"} title={"Master of Science in Big Data Analytics"} subtitle={"Trent University, ON, CA"}> </Event>
-          <Event interval={"2020 – 2022"} title={"Master of Science in Computer Science"} subtitle={"Somaiya Vidyavihar University, IN"}> </Event>
-          <Event interval={"2017 – 2020"} title={"Bachelor of Science in Computer Science"} subtitle={"University of Mumbai, IN"}></Event>
+          <Event interval={"2021 – 2024"} title={"BSc in Computer Science"} subtitle={"Trent University, Peterborough, ON, CA"}> </Event>
         </Timeline>
       </React.Fragment>
     </main>
